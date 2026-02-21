@@ -1,0 +1,26 @@
+[2026-02-20 09:21:39] PING ping
+Ping failed: Host unreachable or request timed out.----------------------------------------
+[2026-02-20 20:12:46] PING google.com
+
+Pinging google.com [192.178.192.100] with 32 bytes of data:
+Reply from 192.178.192.100: bytes=32 time=17ms TTL=112
+Reply from 192.178.192.100: bytes=32 time=18ms TTL=112
+Reply from 192.178.192.100: bytes=32 time=18ms TTL=112
+
+Ping statistics for 192.178.192.100:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 17ms, Maximum = 18ms, Average = 17ms
+----------------------------------------
+[2026-02-20 20:13:50] PING google.com
+
+Pinging google.com [192.178.192.100] with 32 bytes of data:
+Reply from 192.178.192.100: bytes=32 time=19ms TTL=112
+Reply from 192.178.192.100: bytes=32 time=20ms TTL=112
+Reply from 192.178.192.100: bytes=32 time=90ms TTL=112
+
+Ping statistics for 192.178.192.100:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 19ms, Maximum = 90ms, Average = 43ms
+----------------------------------------
